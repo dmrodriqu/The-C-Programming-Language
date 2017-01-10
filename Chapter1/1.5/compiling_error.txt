@@ -1,0 +1,8 @@
+/Users/Dylan/Dropbox/GitHub repositories++/The C Programming Language/charcount1.c:9:5: error: use of undeclared identifier 'ncc'; did you mean 'nc'?
+                ++ncc;
+                  ^~~
+                  nc
+/Users/Dylan/Dropbox/GitHub repositories++/The C Programming Language/charcount1.c:7:7: note: 'nc' declared here
+        long nc;
+             ^
+1 error generated.
